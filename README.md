@@ -11,7 +11,7 @@ Welcome to the MarketUp Dashboard project! This project is a frontend-only eComm
 - [Screenshots](#screenshots)
 
 ## Demo
-Check out the live demo of the website [here](https://mr-00-tuzki.github.io/MarketUp-Dashboard/).
+Check out the live demo of the website [here](https://mr-00-tuzki.github.io/StocksFrontEnd/).
 
 ## Features
 - User-friendly dashboard interface
